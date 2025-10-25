@@ -2,7 +2,7 @@
 
 ## 🔧 本地定制版本说明
 
-> 感谢原作者的反馈项目，本版本修复了以下问题并新增功能：
+> 感谢[原作者](https://github.com/Minidoracat/mcp-feedback-enhanced)的反馈项目，本版本修复了以下问题并新增功能：
 
 ### ✅ 已修复问题
 
@@ -63,6 +63,3 @@ Fork 本项目到本地，在 Cursor 中配置：
 </div>
 
 ---
-
-**🌐 Language / 語言切換:** **English** | [繁體中文](README.zh-TW.md) |
-[简体中文](README.zh-CN.md)
